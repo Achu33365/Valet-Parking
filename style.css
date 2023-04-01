@@ -1,0 +1,21 @@
+body{
+	background-image: url("cloud.webp");
+    background-position: center;
+    background-size: cover;
+	font-family: 'Lobster', cursive;
+}
+#myCanvas
+{
+    margin-top: 30px;
+	border-width:10px;
+	background-color: white; 
+	border-style:ridge;
+	font-family: 'Lobster', cursive;
+}
+
+h1,h3,h4
+{
+	color: rgb(255, 255, 255) !important;
+	font-family: 'Lobster', cursive;
+    font-size: xx-large;
+}
